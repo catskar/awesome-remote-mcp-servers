@@ -545,6 +545,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ViewportWitness MCP connector](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness)
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
 
+- [Website Screenshot & PDF API](https://apify.com/catalyst-labs/website-screenshot-pdf-api) `https://mcp.apify.com/?tools=catalyst-labs/website-screenshot-pdf-api`
+  [![Website Screenshot & PDF API MCP connector](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/website-screenshot-pdf-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/website-screenshot-pdf-api)
+  🔐 - Full-page PNG, JPEG or WebP screenshots and PDFs of any URL, with cookie banners removed and desktop or mobile presets.
+
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
 - [AgentsPodium Hosting](https://hosting.defispace.com/docs/mcp.html) `https://mcp.agentspodium.com/mcp`
@@ -3401,6 +3405,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Words into Music](https://wordsintomusic.com/mcp/) `https://mcp.wordsintomusic.com/mcp`
   [![Words into Music MCP connector](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music/badges/score.svg)](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music)
   🔐 - Generate songs from prompts or lyrics, check credits, and access your private song library.
+- [YouTube Transcript API](https://apify.com/catalyst-labs/youtube-transcript-api) `https://mcp.apify.com/?tools=catalyst-labs/youtube-transcript-api`
+  [![YouTube Transcript API MCP connector](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/youtube-transcript-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/youtube-transcript-api)
+  🔐 - Timestamped transcripts and metadata for YouTube videos, Shorts, playlists, channels and search as text, SRT or VTT.
 - [Zebu Data - YouTube Data & Transcripts](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/youtube-video-scraper-by-keyword,delicious_zebu/youtube-channel-video-scraper,delicious_zebu/youtube-video-data-scraper,delicious_zebu/youtube-comments-replies-scraper,delicious_zebu/youtube-transcript-scraper`
   [![Zebu Data - YouTube Data & Transcripts MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/youtube-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/youtube-data)
   🔐 - YouTube search, whole channels, video stats, comments and full transcripts with timestamps.
@@ -3826,6 +3833,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [call402](https://call402.com) `https://call402.com/mcp`
   [![call402 MCP connector](https://glama.ai/mcp/connectors/io.github.lgs1520/call402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lgs1520/call402)
   🔓 - MCP access to structured data utilities and 12 x402 pay-per-call API endpoints on Base.
+- [Career Site Jobs Scraper](https://apify.com/catalyst-labs/career-site-jobs-scraper) `https://mcp.apify.com/?tools=catalyst-labs/career-site-jobs-scraper`
+  [![Career Site Jobs Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/career-site-jobs-scraper/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/career-site-jobs-scraper)
+  🔐 - Open jobs from company career sites on Workday, Greenhouse, Lever, Ashby and 13 more ATS as normalized JSON.
 - [CareJobs.Now](https://carejobs.now/data) `https://carejobs.now/api/mcp`
   [![CareJobs.Now MCP connector](https://glama.ai/mcp/connectors/now.carejobs/healthcare-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/now.carejobs/healthcare-jobs)
   🔓 - Search 170,000+ open US healthcare jobs at 258 hospitals and health systems, with the pay each one posts.
